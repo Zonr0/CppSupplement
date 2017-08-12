@@ -22,3 +22,6 @@ Though I work for the univeristy and for Karla Fant specifically, this is NOT an
 
 ### For Non-Portland State Students
 More instructions here soon.
+
+## More Resources
+In addition to this repository, more lessons can be found in [https://github.com/TsebMagi/PSU-Resources](Doug Whitley's git repository). Someday, these two repos may end up merged.
