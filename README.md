@@ -25,3 +25,6 @@ More instructions here soon.
 
 ## More Resources
 In addition to this repository, more lessons can be found in [https://github.com/TsebMagi/PSU-Resources](Doug Whitley's git repository). Someday, these two repos may end up merged.
+
+## License
+This work is licensed under the MIT license. See LICENSE for details.
